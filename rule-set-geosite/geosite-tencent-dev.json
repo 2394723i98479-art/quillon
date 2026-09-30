@@ -13,9 +13,10 @@
                 "wegamedeveloper.com",
                 "weixinbridge.com",
                 "weui.io",
+                "cnb.cool",
+                "cnb.space",
                 "coding.me",
                 "coding.net",
-                "cnb.cool",
                 "badjs.weixinbridge.com"
             ],
             "domain_suffix": [
@@ -30,9 +31,10 @@
                 ".wegamedeveloper.com",
                 ".weixinbridge.com",
                 ".weui.io",
+                ".cnb.cool",
+                ".cnb.space",
                 ".coding.me",
                 ".coding.net",
-                ".cnb.cool",
                 ".badjs.weixinbridge.com"
             ]
         }

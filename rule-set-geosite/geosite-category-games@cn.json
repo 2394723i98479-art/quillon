@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "bluearchive-cn.com",
                 "xboxlive.cn",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
@@ -15,10 +16,10 @@
                 "mariokart.cn",
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
-                "bluearchive-cn.com",
-                "gog.qtlglb.com",
                 "leagueoflegends.cn",
                 "lpl.com.cn",
+                "yostar.cn",
+                "gog.qtlglb.com",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -35,10 +36,10 @@
                 "lv.queniujq.cn",
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
-                "gstore.val.manlaxy.com",
-                "yostar.cn"
+                "gstore.val.manlaxy.com"
             ],
             "domain_suffix": [
+                ".bluearchive-cn.com",
                 ".xboxlive.cn",
                 ".legendofzelda.cn",
                 ".legendofzelda.com.cn",
@@ -52,9 +53,9 @@
                 ".mariokart.cn",
                 ".mariokart.com.cn",
                 ".supermariobros.com.cn",
-                ".bluearchive-cn.com",
                 ".leagueoflegends.cn",
                 ".lpl.com.cn",
+                ".yostar.cn",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -68,13 +69,12 @@
                 ".steampowered.com.8686c.com",
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
-                ".gstore.val.manlaxy.com",
-                ".yostar.cn"
+                ".gstore.val.manlaxy.com"
             ],
             "domain_regex": [
-                "^.+-mihayo\\.akamaized\\.net$",
                 "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
-                "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+                "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
+                "^.+-mihayo\\.akamaized\\.net$"
             ]
         }
     ]
